@@ -24,7 +24,7 @@ Here you can download the dataset:
 
 https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/
 
-You can follow dhe Project repoert with source code or you can follow tutorial step by ste.
+You can follow dhe Project report with source code or you can follow tutorial step by ste.
 
 **##Tutorial:
 1. Big Data Hadoop: Managing NDFS from Command Line - Part 1  
