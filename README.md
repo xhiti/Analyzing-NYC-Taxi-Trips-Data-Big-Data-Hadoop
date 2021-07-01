@@ -1,32 +1,32 @@
 # Analyzing-NYC-Taxi-Trips-Data-Big-Data-Hadoop
 Big Data &amp; Hadoop (Sandbox) #Linux
 
-**Big Data & Hadoop: 
+**Big Data & Hadoop:**
 - Introduction to Big Data and Hadoop. 
   We will learn about Hadoop and its architecture. How to install hadoop and how to manage it with commands. We will understand the 
   difference between different versions of Hadoop and how hadoop uses ETL.
   
-**Hive: 
+**Hive:**
 - We will understand what types of problems Hive solves in Big Data. We will use different 
   data models, get acquainted with the different types of files that Hive has and use data management 
   in Hive via of the query.
   
-**Pig:
+**Pig:**
 - We will understand how Pig solves problems in Big Data. mode of operation, differences 
   between Pig and SQL.
 
-**Use Cases: 
+**Use Cases:**
 - Real-time applications to better understand Hadoop and its components, so we will 
   learn how to build a simple Data Pipeline in Hadoop to process big data.
   
-**##Dataset:
+**##Dataset:**
 Here you can download the dataset: 
 
 https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/
 
 You can follow dhe Project report with source code or you can follow tutorial step by ste.
 
-**##Tutorial:
+**##Tutorial:**
 1. Big Data Hadoop: Managing NDFS from Command Line - Part 1  
    https://www.youtube.com/watch?v=uaRfFVaiiSI&list=PLIyMdo23wpZ_GHJ2c3oHuMvcdnrXYThjl&ab_channel=MexhitKurti
 
